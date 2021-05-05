@@ -503,7 +503,7 @@ button:focus {
 }
 
 .btn-light {
-  background-color: #38475a;
+  background-color: #f3f6f9;
   border: 1px solid #38475a !important;
 }
 
@@ -513,12 +513,12 @@ button:focus {
 
 .btn-outline-light {
   background-color: transparent;
-  border: 1px solid #38475a !important;
+  border: 1px solid #f3f6f9 !important;
   color: #38475a !important;
 }
 
 .btn-outline-light:hover, .btn-outline-light.active {
-  background-color: #38475a;
+  background-color: #f3f6f9;
   color: #ffffff !important;
 }
 
