@@ -21,7 +21,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Poppins:wght@300;400;500;600;700&display=swap");
 body {
   font-family: "Montserrat", sans-serif;
-  color: #33362f1a;
+  color: #f3f6f9;
   background: #292121;
   line-height: 1.6;
   font-size: 14.4px;
@@ -30,7 +30,7 @@ body {
 a {
   text-decoration: none !important;
   outline: none;
-  color: #292121;
+  color: #74A728;
 }
 
 h1,
@@ -63,7 +63,7 @@ h6 {
 }
 
 .bg-secondary {
-  background-color: #33362f !important;
+  background-color: #6c757d !important;
 }
 
 .bg-soft-secondary {
