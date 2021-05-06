@@ -59,7 +59,7 @@ h6 {
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #f3f6f9 !important;
 }
 
 .bg-secondary {
@@ -514,7 +514,7 @@ button:focus {
 .btn-outline-light {
   background-color: transparent;
   border: 1px solid #f3f6f9 !important;
-  color: #38475a !important;
+  color: #f3f6f9 !important;
 }
 
 .btn-outline-light:hover, .btn-outline-light.active {
