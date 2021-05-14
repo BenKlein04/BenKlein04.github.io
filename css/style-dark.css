@@ -24,7 +24,7 @@ body {
   color: #74A728;
   background: #0b0c0d;
   line-height: 1.6;
-  font-size: 14.4px;
+  font-size: 15.5px;
 }
 
 a {
@@ -789,7 +789,7 @@ button:focus {
 }
 
 .hero-6 .hero-content .hero-6-sub-title {
-  color: rgba(255, 255, 255, 0.5);
+  color: #f3f6f9;
 }
 
 .hero-6 .hero-title {
