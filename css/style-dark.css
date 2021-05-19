@@ -718,11 +718,11 @@ button:focus {
 }
 
 .navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:focus, .navbar .navbar-nav .nav-item .nav-link.active {
-  color: #74A728;
+  color: #f3f6f9;
 }
 
 .navbar .navbar-nav .nav-item.active .nav-link {
-  color: #74A728 !important;
+  color: #f3f6f9 !important;
 }
 
 .navbar .navbar-toggler {
