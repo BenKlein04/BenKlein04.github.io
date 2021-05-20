@@ -1242,7 +1242,6 @@ button:focus {
   top: 26px;
   transform: translateY(-50%);
 }
-
 .accordion .card .card-header .faq-list {
   color: #212529 !important;
 }
