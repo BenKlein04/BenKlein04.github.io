@@ -1232,7 +1232,7 @@ button:focus {
 }
 
 .faq-bg .card-header a.faq-list[data-toggle="collapse"]:before {
-  content: "\eb89";
+  content: "\eb56";
   transition: all 0.5s;
   font-family: "boxicons";
   font-size: 20px;
