@@ -711,7 +711,7 @@ button:focus {
 }
 
 .navbar .navbar-nav .nav-item .nav-link {
-  color: rgba(243,246,249)
+  color: #f3f6f9;
   font-size: 14px;
   padding: 8px 16px;
   font-weight: 500;
